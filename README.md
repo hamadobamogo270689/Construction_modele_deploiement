@@ -37,5 +37,5 @@ Présentation des métriques de performance, telles que l'accuracy, la précisio
 
 - *svm_model.pkl* : Modèle de Support Vector Machine (SVM) pré-entraîné dans notre fichier * programme.py* , enregistré dans un fichier .pkl.
 - *tfidf_vectorizer.pkl: TF-IDF pré-entraîné dans notre fichier * programme.py**, enregistré dans un fichier .pkl.
-### 4. Dataset
+### 3. Dataset
   - *tweet_suspects.csv* est le dataset utilisé pour la classification
