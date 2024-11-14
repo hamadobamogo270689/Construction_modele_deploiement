@@ -21,9 +21,9 @@ Utilisation de train_test_split pour séparer les données en ensembles d'entra�
 #### 1.5. Entraînement du Modèle
 Application des algorithmes de classification et comparaison de leurs performances :
 
-- *Logistic regression*, etc.
-- *Random Forest*
-- *SVM*
+- *Logistic regression*,
+- *Random Forest*,
+- *SVM*, etc.
 #### 1.6. Ajustement des hyperparamètres 
 Application de ces algorithmes de classification avec les hyperparamètres et comparaison de leurs performances
 #### 1.7. Évaluation du Modèle
